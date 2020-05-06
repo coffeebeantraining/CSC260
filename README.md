@@ -3,8 +3,8 @@ CSC260 Object-Oriented Design
 CSC 260 Object-Oriented Design
 March 2020
 
-Project Proposal – Automate calculating Healthcare Second Lowest Cost Plan
-Problem Statement
+#Project Proposal – Automate calculating Healthcare Second Lowest Cost Plan
+#Problem Statement
 Healthcare plan professionals spend too much time determining the tax credit for qualifying individuals and families receive on the marketplace.  The method used for a health plan in a particular rate area is called a Second Lowest Cost Plan and serves as the benchmark health plan for a particular area.
 For example, if a rate area had health plans with rates of [197.3, 201.1, 305.4, 306.7], the SLCP for that rate area would be 201.1 since it's the second lowest rate in that rate area.
 A plan shall have a metal level which can be Bronze, Silver, Gold, Platinum, or Catastrophic. The metal level is indicative of the level of coverage the plan provides. 
